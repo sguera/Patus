@@ -1,7 +1,7 @@
 Patus
 =====
 Reference repository:
-https://code.google.com/p/patus/
+https://github.com/matthias-christen/patus
 =====
 In many numerical codes, ranging from simple PDE solvers to complex AMR and multigrid solvers, the class of stencil computations is a constituent class of kernels. Oftentimes, stencil computations comprise a dominant part of the compute time. Therefore, in order to minimize the time to solution, it is crucial that the stencil kernels make use of the available computing resources as efficiently as possible.
 
